@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MessagingApiAppApplication {
 	
 	public String printGreetings() {
-		return "Hi Oracle" ;
+		return "Hiiii Oracle" ;
 	}
 
 	public static void main(String[] args) {
